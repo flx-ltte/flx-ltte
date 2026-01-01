@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Félix Lanouette
 
 🎮 Créateur de jeux et développeur passionné  
-📚 Étudiant en informatique  
+📚 Étudiant/Finissant en technique de l'informatique  
 
 Je développe des projets interactifs, des jeux et des applications dans le but d’apprendre, d’expérimenter et de construire des systèmes solides et créatifs.
 
